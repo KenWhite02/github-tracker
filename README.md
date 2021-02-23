@@ -12,7 +12,7 @@ React JS, Github API, React Router, React Hooks, Axios.
 
 ## View Project
 
-You can view the current project at [https://ken-github-tracker.netlify.app/](Github-Tracker).
+You can view the current project at [https://ken-github-tracker.netlify.app/](https://ken-github-tracker.netlify.app/).
 
 ## Installation
 
